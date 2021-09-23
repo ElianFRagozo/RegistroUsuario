@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MenuOpciones1
+{
+    class MenuOpciones
+    {
+        public void VerOpciones()
+        {
+            int opcion = 0;
+            do
+            {
+                console.Clear();
+                console.WriteLine("\t\t MENU DE OPCIONES");
+                console.WriteLine("\n1.Informacion tematica del curso" + "\n2.Informacion del componente practico" + "\n3.Saliendo de la aplicacion");
+                console.WriteLine("Ingrese la opcion valida:");
+                opcion = int.Parse(console.ReadLine());
+                console.Clear();
+                switch(opcion)
+                {
+                    case 1:
+                    console.WriteLine("Aqui se incluye la informacion tematica del curso");
+                    break;
+                    case 2:
+                    console.WriteLine("Aqui se incluye la informacion del componente practico");
+                    break;
+                    case 3:
+                    console.WriteLine("Saliendo de la aplicación..........");
+                    break;
+                    default:
+                    console.WriteLine("Ingrese una opcion correcta");
+                    break;
+                }
+                console.ReadKey();
+            } while (opcion !=3);
+        }
+    }
+}
