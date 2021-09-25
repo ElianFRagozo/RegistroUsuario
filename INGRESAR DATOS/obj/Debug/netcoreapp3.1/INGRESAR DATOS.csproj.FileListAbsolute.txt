@@ -1,0 +1,14 @@
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.exe
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.deps.json
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.runtimeconfig.json
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.runtimeconfig.dev.json
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.dll
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\bin\Debug\netcoreapp3.1\INGRESAR DATOS.pdb
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.csproj.AssemblyReference.cache
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.AssemblyInfoInputs.cache
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.AssemblyInfo.cs
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.csproj.CoreCompileInputs.cache
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.dll
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.pdb
+C:\Users\ELIAN FRAGOZO\source\repos\INGRESAR DATOS\INGRESAR DATOS\obj\Debug\netcoreapp3.1\INGRESAR DATOS.genruntimeconfig.cache
